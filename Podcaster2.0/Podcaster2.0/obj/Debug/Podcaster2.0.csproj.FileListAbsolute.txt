@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\Podcaster2.0\Podcaster2.0\bin\Debug\Podcaster2.0.exe.config
+C:\Users\David\source\repos\Podcaster2.0\Podcaster2.0\bin\Debug\Podcaster2.0.exe
+C:\Users\David\source\repos\Podcaster2.0\Podcaster2.0\bin\Debug\Podcaster2.0.pdb
+C:\Users\David\source\repos\Podcaster2.0\Podcaster2.0\obj\Debug\Podcaster2.0.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Podcaster2.0\Podcaster2.0\obj\Debug\Podcaster2._0.Form1.resources
+C:\Users\David\source\repos\Podcaster2.0\Podcaster2.0\obj\Debug\Podcaster2._0.Properties.Resources.resources
+C:\Users\David\source\repos\Podcaster2.0\Podcaster2.0\obj\Debug\Podcaster2.0.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Podcaster2.0\Podcaster2.0\obj\Debug\Podcaster2.0.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Podcaster2.0\Podcaster2.0\obj\Debug\Podcaster2.0.exe
+C:\Users\David\source\repos\Podcaster2.0\Podcaster2.0\obj\Debug\Podcaster2.0.pdb
